@@ -1,0 +1,3 @@
+celery[redis]
+celery[rabbitmq]
+flower

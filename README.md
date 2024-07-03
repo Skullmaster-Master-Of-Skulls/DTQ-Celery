@@ -7,5 +7,5 @@ This project demonstrates how to set up a distributed task queue using Celery wi
 - Real-time Monitoring: Monitor and manage tasks using the Flower web interface.
 ## Prerequisites
 - Python (3.6 or later)
-- Virtual environment (optional but recommended)
+- Virtual environment (optional)
 - RabbitMQ or Redis installed and running
