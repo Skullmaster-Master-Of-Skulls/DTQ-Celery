@@ -6,6 +6,10 @@ This project demonstrates how to set up a distributed task queue using Celery wi
 - Task Retry Mechanism: Automatically retry failed tasks with customizable retry logic.
 - Real-time Monitoring: Monitor and manage tasks using the Flower web interface.
 ## Prerequisites
-- Python (3.6 or later)
+- Python (3.8 or later)
 - Virtual environment (optional)
 - RabbitMQ or Redis installed and running
+
+## Things to add once it's working locally
+- Task to update a string in a dictionary
+- connection to AWS S3

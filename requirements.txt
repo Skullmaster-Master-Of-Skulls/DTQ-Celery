@@ -1,3 +1,4 @@
+celery
 celery[redis]
 celery[rabbitmq]
 flower
